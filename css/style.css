@@ -1436,3 +1436,12 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+@media screen and (max-width: 900px) and (min-width:481px) {
+    .navbar {
+margin-right: 200px;
+}
+
+
+
+}
